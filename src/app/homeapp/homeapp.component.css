@@ -6,11 +6,10 @@
 }
 .s2{
   text-align:center;
-  margin-top:500px;
+  margin-top:520px;
   font-family: OpenSymbol;
   color:red;
-  width:600px;
-  margin-left: 30%;
+  margin-left: 0%;
 }
 h1{
   text-align:center;
@@ -71,6 +70,7 @@ h1{
   border-right: 1px solid #141620;
   border-bottom: 1px solid #141620;
   width: 30%;
+  height:380px;
   margin-left: 500px;
 }
 h3{
@@ -80,11 +80,11 @@ h3{
 }
 #w1{
   width:200px;
-  margin-left: 30px;
+  margin-left: 32px;
 }
 #w2{
   width:200px;
-  margin-left: 20px;
+  margin-left: 22px;
 }
 #w3{
   width:200px;
@@ -92,4 +92,23 @@ h3{
 }
 #w4{
   margin-left: 42px;
+}
+.g1{
+  margin-left: -50px;
+  margin-top: -20px;
+}
+.submit{
+  text-align: center;
+  margin-left: 23%;
+  background-color: #141620;
+  color: #ffffff;
+  width: 150px;
+  margin-top: 20px;
+}
+.boun{
+  border-top: 2px solid #141620;
+  border-left: 2px solid #141620;
+  border-right: 2px solid #141620;
+  border-bottom: 2px solid #141620;
+  height: 1600px;
 }
